@@ -20,9 +20,9 @@ os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
 
 # Placeholder IDs
 APP_IDS = {
-    "Commercial Bank of Ethiopia": "com.combanketh.mobile.banking",
-    "Bank of Abyssinia": "com.boa.boaMobileBanking",          # CORRECTED ID
-    "Dashen Bank": "com.dashen.dashensuperapp"              # CORRECTED ID
+    "Commercial Bank of Ethiopia": "com.combanketh.mobilebanking",
+    "Bank of Abyssinia": "com.boa.boaMobileBanking",          
+    "Dashen Bank": "com.dashen.dashensuperapp"              
 }
 
 # Minimum number of reviews to target per app
