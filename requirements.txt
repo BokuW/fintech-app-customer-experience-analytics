@@ -1,3 +1,7 @@
 # requirements.txt
 pandas
 google-play-scraper
+tqdm
+nltk
+vaderSentiment
+scikit-learn # For TF-IDF
